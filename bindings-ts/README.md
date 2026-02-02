@@ -1,0 +1,1 @@
+Pretend like there is some TypeScript code here.

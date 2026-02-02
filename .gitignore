@@ -1,0 +1,43 @@
+# Build outputs
+/build/
+**/build/
+**/cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio / MSBuild
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj.user
+
+# Compiled objects
+*.o
+*.obj
+*.lo
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+*.exp
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Misc
+*.log
+.DS_Store
+Thumbs.db
