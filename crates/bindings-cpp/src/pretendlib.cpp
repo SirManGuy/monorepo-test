@@ -2,7 +2,8 @@
 
 namespace pretendlib {
 int add(int a, int b) {
-    return a + b + 1;
+    // Removed the bug!
+    return a + b;
 }
 
 int multiply(int a, int b) {
